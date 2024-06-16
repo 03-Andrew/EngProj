@@ -1,26 +1,26 @@
 General materials:
-~1,Lumber,100,item
-~2,Bricks,100,item
-~3,Cement,100,bag
+~1,Lumber,100,item,930
+~2,Bricks,100,item,945
+~3,Cement,100,bag,200
 Roofing materials:
-~4,Asphalt shingles,100,bundle
-~5,Clay roofing tiles,100,square meter
-~6,Metal roofing panels,100,item
-~7,Slate roofing tiles,100,item
-~8,Wood shingles,100,item
+~4,Asphalt shingles,100,bundle,23
+~5,Clay roofing tiles,100,sq meter,33
+~6,Metal roofing panels,100,item,23
+~7,Slate roofing tiles,100,item,100
+~8,Wood shingles,100,item,100
 Windows and doors:
-~9,Double-hung windows,100,item
-~10,Casement windows,100,item
-~11,Sliding glass doors,100,item
-~12,French doors,100,item
-~13,Door locks,100,item
-~14,Door handles,100,item
-~15,Door hinges,100,item
+~9,Double-hung windows,100,item,1000
+~10,Casement windows,100,item,930
+~11,Sliding glass doors,100,item,930
+~12,French doors,100,item,930
+~13,Door locks,100,item,930
+~14,Door handles,100,item,930
+~15,Door hinges,100,item,930
 Flooring materials:
-~16,Hardwood flooring oak,100,item
-~17,Hardwood flooring maple,100,item
-~18,Hardwood flooring cherry,100,item
-~19,Laminate flooring,100,item
-~20,Porcelain tiles,100,item
-~21,Ceramic tiles,100,item
-~22,Vinyl plank flooring,100,item
+~16,Hardwood flooring oak,100,item,930
+~17,Hardwood flooring maple,100,item,930
+~18,Hardwood flooring cherry,100,item,930
+~19,Laminate flooring,100,item,930
+~20,Porcelain tiles,100,item,945
+~21,Ceramic tiles,100,item,945
+~22,Vinyl plank flooring,100,item,945
